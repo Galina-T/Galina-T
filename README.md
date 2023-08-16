@@ -18,9 +18,9 @@
   <code><img width="10%" alt="sql" src="logo/sql_logo.png"></code>
   <code><img width="10%" alt="devtools" src="logo/devtools-logo.svg"></code>
   <br>
-  <code><img width="10%" alt="charles-proxy" src="https://scontent.fnic1-2.fna.fbcdn.net/v/t39.30808-6/302566861_403605171884425_5386148225345855980_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=300f58&_nc_ohc=ihnkBzxCT1AAX83rMsP&_nc_ht=scontent.fnic1-2.fna&oh=00_AfAawDLUs72jZE9tYzpeO6iYO8BoRyjiXTZzWrGfbBzEew&oe=64DEA885"></code>
+  <code><img width="10%" alt="charles-proxy" src="logo/charles.png"></code>
   <code><img width="10%" alt="python" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" alt="iterm" src="logo/iterm2.svg"></code>
+  <code><img width="10%" alt="iTerm" src="logo/iTerm.png"></code>
 </p>
 
 
