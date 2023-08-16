@@ -1,4 +1,28 @@
-### Hi there 👋
+## Hi there, I’m a manual QA engineer 👋
+
+### 💻 Technology stack
+<p>
+  <code><img width="10%" alt="html5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%" alt="css" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+  <code><img width="10%" alt="javascript" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <br>
+  <code><img width="10%" alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+  <code><img width="10%" alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+  <br>
+  <code><img width="10%" alt="cypress" src="logo/cypress.svg"></code>
+  <code><img width="10%" alt="vsCode" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><img width="10%" alt="jira" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
+  <br>
+  <code><img width="10%" alt="qase.io" src="logo/qase-logo-blog.png"></code>
+  <code><img width="10%" alt="sql" src="logo/sql_logo.png"></code>
+  <code><img width="10%" alt="devtools" src="logo/devtools-logo.svg"></code>
+  <br>
+  <code><img width="10%" alt="charles-proxy" src="https://scontent.fnic1-2.fna.fbcdn.net/v/t39.30808-6/302566861_403605171884425_5386148225345855980_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=300f58&_nc_ohc=ihnkBzxCT1AAX83rMsP&_nc_ht=scontent.fnic1-2.fna&oh=00_AfAawDLUs72jZE9tYzpeO6iYO8BoRyjiXTZzWrGfbBzEew&oe=64DEA885"></code>
+  <code><img width="10%" alt="python" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" alt="iterm" src="logo/iterm2.svg"></code>
+</p>
+
 
 <!--
 **Galina-T/Galina-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
